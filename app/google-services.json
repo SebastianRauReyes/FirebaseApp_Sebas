@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "121502394785",
+    "firebase_url": "https://fir-appsebas.firebaseio.com",
+    "project_id": "fir-appsebas",
+    "storage_bucket": "fir-appsebas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121502394785:android:8371cce8393e577e",
+        "android_client_info": {
+          "package_name": "com.sebas.firebaseapp_sebas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121502394785-huqqqgirfq7l5avotj8107vkmgjp366k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sebas.firebaseapp_sebas",
+            "certificate_hash": "5a67bfc4c6464fca94186e9f479944139fd95728"
+          }
+        },
+        {
+          "client_id": "121502394785-tit361fvvm2v0flqirptgvf387tk6k24.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "121502394785-tit361fvvm2v0flqirptgvf387tk6k24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg3dvlo5XjmZDvo_fvCfMmv91YdJP85fo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121502394785-tit361fvvm2v0flqirptgvf387tk6k24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
